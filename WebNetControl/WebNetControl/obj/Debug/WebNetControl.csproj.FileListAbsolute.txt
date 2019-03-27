@@ -1,0 +1,19 @@
+c:\users\mediventa\documents\visual studio 2010\Projects\WebNetControl\WebNetControl\bin\WebNetControl.dll
+c:\users\mediventa\documents\visual studio 2010\Projects\WebNetControl\WebNetControl\bin\WebNetControl.pdb
+c:\users\mediventa\documents\visual studio 2010\Projects\WebNetControl\WebNetControl\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mediventa\documents\visual studio 2010\Projects\WebNetControl\WebNetControl\obj\Debug\WebNetControl.dll
+c:\users\mediventa\documents\visual studio 2010\Projects\WebNetControl\WebNetControl\obj\Debug\WebNetControl.pdb
+C:\Users\MEDIVENTA\Documents\MC Projects\start\trunk\WebNetControl\WebNetControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MEDIVENTA\Documents\MC Projects\start\trunk\WebNetControl\WebNetControl\obj\Debug\WebNetControl.dll
+C:\Users\MEDIVENTA\Documents\MC Projects\start\trunk\WebNetControl\WebNetControl\bin\WebNetControl.dll
+C:\Users\MEDIVENTA\Documents\MC Projects\start\trunk\WebNetControl\WebNetControl\bin\WebNetControl.pdb
+C:\Users\MEDIVENTA\Documents\MC Projects\start\trunk\WebNetControl\WebNetControl\obj\Debug\WebNetControl.pdb
+C:\Documents and Settings\MEDIVENTA\My Documents\MCDigitalSolution\WebNetControl\WebNetControl\bin\WebNetControl.dll
+C:\Documents and Settings\MEDIVENTA\My Documents\MCDigitalSolution\WebNetControl\WebNetControl\bin\WebNetControl.pdb
+C:\Documents and Settings\MEDIVENTA\My Documents\MCDigitalSolution\WebNetControl\WebNetControl\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MEDIVENTA\My Documents\MCDigitalSolution\WebNetControl\WebNetControl\obj\Debug\WebNetControl.dll
+C:\Documents and Settings\MEDIVENTA\My Documents\MCDigitalSolution\WebNetControl\WebNetControl\obj\Debug\WebNetControl.pdb
+C:\Users\MEDIVENTA\Documents\MCDigitalSolution\WebNetControl\WebNetControl\bin\WebNetControl.dll
+C:\Users\MEDIVENTA\Documents\MCDigitalSolution\WebNetControl\WebNetControl\bin\WebNetControl.pdb
+C:\Users\MEDIVENTA\Documents\MCDigitalSolution\WebNetControl\WebNetControl\obj\Debug\WebNetControl.dll
+C:\Users\MEDIVENTA\Documents\MCDigitalSolution\WebNetControl\WebNetControl\obj\Debug\WebNetControl.pdb

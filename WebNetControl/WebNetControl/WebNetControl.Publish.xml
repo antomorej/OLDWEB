@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://mcdigitalsolutions.com/netcontrol" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="mediventa" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABIhRHbPLUkG7ZwqlXk8STgAAAAACAAAAAAAQZgAAAAEAACAAAACNusAwmJNKvkE1+NvJ1prY+WE6QWNALjQc3RolYBgBVAAAAAAOgAAAAAIAACAAAADoUTtysbTOwJFrEuE1YZ8dAdT1jPYzXuP9QLDHkx9tcyAAAADw7Ncny8IGF1cC9yf8vZOJEyb9T6uoeANSLWVkrNNM5UAAAAAGT/CI7niizgNGBoZfgDxKbeC4H+o9tgmNjeN75ZprV/z72GiFLKH1rjmk+IbEeli2+5H7bJM3Kvc37ZNuqHh/" SelectedForPublish="True">
+    <file relUrl="Images/Slide01.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Envios.aspx" publishTime="11/26/2012 21:10:08" />
+    <file relUrl="bin/WebNetControl.pdb" publishTime="01/09/2014 20:58:10" />
+    <file relUrl="Images/LOGO MEDLINKNET FINAL.png" publishTime="09/07/2011 06:19:52" />
+    <file relUrl="bin/WebNetControl.dll" publishTime="01/09/2014 20:58:10" />
+    <file relUrl="Styles/Site.css" publishTime="09/06/2011 11:51:28" />
+    <file relUrl="Site.Master" publishTime="12/12/2012 14:47:50" />
+    <file relUrl="Images/images (2).jpeg" publishTime="09/06/2011 18:01:34" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="09/06/2011 08:19:30" />
+    <file relUrl="Images/Slide09.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Images/Slide03.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Images/MCLOGO200.gif" publishTime="09/07/2011 06:20:08" />
+    <file relUrl="Images/Slide11.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Images/Slide08.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Images/Slide02.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="MainPanel.aspx" publishTime="12/12/2012 21:34:08" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="09/06/2011 08:19:30" />
+    <file relUrl="Admin.aspx" publishTime="07/24/2012 20:12:00" />
+    <file relUrl="Description.aspx" publishTime="09/26/2011 18:51:56" />
+    <file relUrl="UserAccount.aspx" publishTime="07/25/2012 17:36:36" />
+    <file relUrl="Images/Slide05.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="09/06/2011 08:19:30" />
+    <file relUrl="Images/Slide06.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Web.config" publishTime="12/12/2012 21:34:42" />
+    <file relUrl="Images/Slide10.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Images/Slide04.jpg" publishTime="09/15/2011 11:24:26" />
+    <file relUrl="Images/Slide07.jpg" publishTime="09/15/2011 11:24:26" />
+  </publishProfile>
+</publishData>

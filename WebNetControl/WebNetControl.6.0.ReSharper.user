@@ -1,0 +1,99 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="4316" fromTop="82" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Site.Master" caret="0" fromTop="0" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:UserAccount.aspx" caret="2971" fromTop="26" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:UserAccount.aspx.cs" caret="564" fromTop="8" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="2810" fromTop="17" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx" caret="0" fromTop="0" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:ENVIOS1.ASPX" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="3698" fromTop="1" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="3456" fromTop="5" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="3214" fromTop="12" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="2971" fromTop="7" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="2767" fromTop="2" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="2524" fromTop="12" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="2280" fromTop="7" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="2038" fromTop="2" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="1796" fromTop="6" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Site.Master" caret="0" fromTop="0" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Description.aspx" caret="511" fromTop="14" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:UserAccount.aspx.cs" caret="0" fromTop="0" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:UserAccount.aspx.cs" caret="1381" fromTop="16" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:UserAccount.aspx.cs" caret="1830" fromTop="28" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:UserAccount.aspx" caret="2971" fromTop="26" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx" caret="0" fromTop="0" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="1646" fromTop="15" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="2516" fromTop="28" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="2944" fromTop="28" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx" caret="11846" fromTop="20" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx" caret="11498" fromTop="20" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="2678" fromTop="13" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="2238" fromTop="5" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx" caret="11081" fromTop="44" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="2921" fromTop="30" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx" caret="3029" fromTop="18" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx" caret="3029" fromTop="12" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="2810" fromTop="17" />
+      <File id="8D5C2F21-BA91-469E-BAB8-FF982F5138C5/f:Envios.aspx.cs" caret="3018" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="using" priority="30" />
+      <Item value="Page`0" priority="31" />
+      <Item value="new" priority="31" />
+      <Item value="Page" priority="29" />
+      <Item value="EntrarBtn" priority="31" />
+      <Item value="BorrarOldTrans" priority="31" />
+      <Item value="true" priority="95" />
+      <Item value="OcultarTrans" priority="31" />
+      <Item value="DomainList" priority="31" />
+      <Item value="GridViewUsers" priority="31" />
+      <Item value="Cerrar_Click`0" priority="31" />
+      <Item value="sender" priority="31" />
+      <Item value="EventArgs`0" priority="63" />
+      <Item value="ClaveTx" priority="31" />
+      <Item value="EntrarBD" priority="31" />
+      <Item value="ResolveClientUrl`0" priority="31" />
+      <Item value="HttpApplication`0" priority="31" />
+      <Item value="Page_Load`0" priority="31" />
+      <Item value="MultiView" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="Text" priority="26" />
+      <Item value="Enabled" priority="80" />
+      <Item value="Visible" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="DataBind`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="DataBind`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.MultiView">
+      <Item value="ActiveViewIndex" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
